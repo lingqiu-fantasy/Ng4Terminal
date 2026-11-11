@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "latestVersion": "1.4.29",
-  "notes": "1.4.29 调整了实时角色血迹菜单，并优化了卸载计划与档案校验。",
+  "latestVersion": "1.4.32",
+  "notes": "右下角显示更新提醒。首次成功读取的更新清单会保存在本地，同一版本每隔 48 小时提醒一次。",
   "downloadPages": [
     {
       "name": "黄盘",
@@ -23,6 +23,21 @@
       "bytes": 70809973,
       "sha256": "8E60C1C3488F2DC635CC5B0941DD096904A2E299D4B6A9B0173B54C7E3E22FDB",
       "url": "https://pan.huang1111.cn/f/NLwbfM/NG4%E7%BB%88%E7%AB%AF_1.4.29_%E5%AE%8C%E6%95%B4%E7%89%88.zip"
+    },
+    {
+      "version": "1.4.32",
+      "fileName": "Ng4Terminal-1.4.32-win-x64.zip",
+      "bytes": 70846523,
+      "sha256": "239088F2D840227610AC35B4C5ADB986A23DAA8B7DBF0C1E38309B2EAEE73F6C",
+      "gitHubTag": "v1.4.32"
+    },
+    {
+      "version": "1.4.32",
+      "fileName": "Ng4Terminal-1.4.31-to-1.4.32-component.zip",
+      "bytes": 436434,
+      "sha256": "BD9B4AF4F5587654A5FAA4D79742834430BB625FA0B7ABE689624E4F9B74E8E3",
+      "gitHubTag": "v1.4.32",
+      "fromVersion": "1.4.31"
     }
   ]
 }
