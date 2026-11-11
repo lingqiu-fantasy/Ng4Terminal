@@ -1,0 +1,28 @@
+{
+  "schema": 1,
+  "latestVersion": "1.4.29",
+  "notes": "1.4.29 调整了实时角色血迹菜单，并优化了卸载计划与档案校验。",
+  "downloadPages": [
+    {
+      "name": "黄盘",
+      "url": "https://pan.huang1111.cn/s/alqQDFG"
+    },
+    {
+      "name": "和彩云",
+      "url": "https://yun.139.com/shareweb/#/w/i/2yA8Ehfnfqm3u"
+    },
+    {
+      "name": "夸克网盘",
+      "url": "https://pan.quark.cn/s/28ec18281437"
+    }
+  ],
+  "packages": [
+    {
+      "version": "1.4.29",
+      "fileName": "NG4终端_1.4.29_完整版.zip",
+      "bytes": 70809973,
+      "sha256": "8E60C1C3488F2DC635CC5B0941DD096904A2E299D4B6A9B0173B54C7E3E22FDB",
+      "url": "https://pan.huang1111.cn/f/NLwbfM/NG4%E7%BB%88%E7%AB%AF_1.4.29_%E5%AE%8C%E6%95%B4%E7%89%88.zip"
+    }
+  ]
+}
