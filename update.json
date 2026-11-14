@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "latestVersion": "1.4.32",
-  "notes": "右下角显示更新提醒。首次成功读取的更新清单会保存在本地，同一版本每隔 48 小时提醒一次。",
+  "latestVersion": "1.4.33",
+  "notes": "修复白银之城玩家脸部血迹残留，记住玩家血迹开关并在菜单左侧显示状态。支持 Windows x64 原生 DLL 模组包和白银之城 1.1.10 围脖兼容资源。",
   "downloadPages": [
     {
       "name": "黄盘",
@@ -38,6 +38,21 @@
       "sha256": "BD9B4AF4F5587654A5FAA4D79742834430BB625FA0B7ABE689624E4F9B74E8E3",
       "gitHubTag": "v1.4.32",
       "fromVersion": "1.4.31"
+    },
+    {
+      "version": "1.4.33",
+      "fileName": "Ng4Terminal-1.4.33-win-x64.zip",
+      "bytes": 67103607,
+      "sha256": "8DBFA9ABFB7E0638F38DFD476CDEFE38F5D530CD88E563378B650DFA9D84D968",
+      "gitHubTag": "v1.4.33"
+    },
+    {
+      "version": "1.4.33",
+      "fileName": "Ng4Terminal-1.4.32-to-1.4.33-component.zip",
+      "bytes": 454554,
+      "sha256": "B3C39F365C4DBD12B5E8215F76E63E5FAB74FD9154F17C1F85451DD6F5AFD220",
+      "gitHubTag": "v1.4.33",
+      "fromVersion": "1.4.32"
     }
   ]
 }
