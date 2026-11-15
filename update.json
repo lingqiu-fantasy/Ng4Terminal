@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "latestVersion": "1.4.35",
-  "notes": "修复 Lenko 安装与旧档案识别问题。隐藏布局分隔线；新增终端完整卸载，保留通过文件夹导入的模组源文件。",
+  "latestVersion": "1.4.36",
+  "notes": "修复白银之城独立档案物理，加入终端独立加载器和 Steam 启动入口。",
   "downloadPages": [
     {
       "name": "黄盘",
@@ -56,36 +56,19 @@
       "fromVersion": "1.4.32"
     },
     {
-      "version": "1.4.35",
-      "fileName": "Ng4Terminal-1.4.33-to-1.4.35-component.zip",
-      "bytes": 574996,
-      "sha256": "C47303B1170F29D62ADC2405E563D30F04460054D40C0F8B951A5602624FD22E",
-      "gitHubTag": "v1.4.35",
-      "fromVersion": "1.4.33"
+      "version": "1.4.36",
+      "fileName": "Ng4Terminal-1.4.35-to-1.4.36-component.zip",
+      "bytes": 586300,
+      "sha256": "9B473B6277317FDB1489D986F7A86AE51B59A8E6128A21A2A63089361C26BD45",
+      "gitHubTag": "v1.4.36",
+      "fromVersion": "1.4.35"
     },
     {
-      "version": "1.4.35",
-      "fileName": "Ng4Terminal-1.4.34-ui-test.3-to-1.4.35-component.zip",
-      "bytes": 575004,
-      "sha256": "80D388116C9AB99BB07633F59C691BEF43EF391CB230B86A680C80C2DAF95E52",
-      "gitHubTag": "v1.4.35",
-      "fromVersion": "1.4.34-ui-test.3"
-    },
-    {
-      "version": "1.4.35",
-      "fileName": "Ng4Terminal-1.4.34-ui-test.4-to-1.4.35-component.zip",
-      "bytes": 575004,
-      "sha256": "5A04086327C499F87605BDBABB9D3375D849E1B31A37A40583E7AAA860E53101",
-      "gitHubTag": "v1.4.35",
-      "fromVersion": "1.4.34-ui-test.4"
-    },
-    {
-      "version": "1.4.35",
-      "fileName": "Ng4Terminal-1.4.35-win-x64.zip",
-      "bytes": 67237700,
-      "sha256": "2C424CCB482B061B004042A460FB892C05E5182DCE07B4227B66261D1A3F8B80",
-      "gitHubTag": "v1.4.35",
-      "url": "https://pan.huang1111.cn/f/qoDNh6/Ng4Terminal-1.4.35-win-x64.zip"
+      "version": "1.4.36",
+      "fileName": "Ng4Terminal-1.4.36-win-x64.zip",
+      "bytes": 67246365,
+      "sha256": "2FA22C90CAA3A465661E577114DCE026AC897B650EA82B240C9C86F1093C5F69",
+      "gitHubTag": "v1.4.36"
     }
   ]
 }
