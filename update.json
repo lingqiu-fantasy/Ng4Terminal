@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "latestVersion": "1.4.36",
-  "notes": "修复白银之城独立档案物理，加入终端独立加载器和 Steam 启动入口。",
+  "latestVersion": "1.4.33",
+  "notes": "公开更新通道当前提供 1.4.33。1.4.36 因组件管理和加载问题已暂时撤回。",
   "downloadPages": [
     {
       "name": "黄盘",
@@ -54,22 +54,6 @@
       "sha256": "B3C39F365C4DBD12B5E8215F76E63E5FAB74FD9154F17C1F85451DD6F5AFD220",
       "gitHubTag": "v1.4.33",
       "fromVersion": "1.4.32"
-    },
-    {
-      "version": "1.4.36",
-      "fileName": "Ng4Terminal-1.4.35-to-1.4.36-component.zip",
-      "bytes": 586300,
-      "sha256": "9B473B6277317FDB1489D986F7A86AE51B59A8E6128A21A2A63089361C26BD45",
-      "gitHubTag": "v1.4.36",
-      "fromVersion": "1.4.35"
-    },
-    {
-      "version": "1.4.36",
-      "fileName": "Ng4Terminal-1.4.36-win-x64.zip",
-      "bytes": 67246365,
-      "sha256": "2FA22C90CAA3A465661E577114DCE026AC897B650EA82B240C9C86F1093C5F69",
-      "gitHubTag": "v1.4.36",
-      "url": "https://pan.huang1111.cn/f/34avF6/Ng4Terminal-1.4.36-win-x64.zip"
     }
   ]
 }
