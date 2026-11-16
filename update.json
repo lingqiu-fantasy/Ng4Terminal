@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "latestVersion": "1.4.33",
-  "notes": "公开更新通道当前提供 1.4.33。1.4.36 因组件管理和加载问题已暂时撤回。",
+  "latestVersion": "1.4.37",
+  "notes": "1.4.37 含新版启动器。请从 GitHub Releases 下载并解压完整 ZIP 到新目录后运行 Ng4Terminal.exe。本版修复再次双击窗口、保存布局，并将夜曲安装标为实验性。",
   "downloadPages": [
     {
       "name": "黄盘",
@@ -54,6 +54,13 @@
       "sha256": "B3C39F365C4DBD12B5E8215F76E63E5FAB74FD9154F17C1F85451DD6F5AFD220",
       "gitHubTag": "v1.4.33",
       "fromVersion": "1.4.32"
+    },
+    {
+      "version": "1.4.37",
+      "fileName": "Ng4Terminal-1.4.37-win-x64.zip",
+      "bytes": 67497334,
+      "sha256": "740d823bea67f6892bfecde76a9ce3d08905b385040b787c48295d7ed46b38a2",
+      "gitHubTag": "v1.4.37"
     }
   ]
 }
