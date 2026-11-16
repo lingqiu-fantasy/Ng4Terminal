@@ -1,7 +1,7 @@
 {
   "schema": 1,
   "latestVersion": "1.4.37",
-  "notes": "1.4.37 含新版启动器。请从 GitHub Releases 下载并解压完整 ZIP 到新目录后运行 Ng4Terminal.exe。本版修复再次双击窗口、保存布局，并将夜曲安装标为实验性。",
+  "notes": "1.4.37 含新版启动器。请从黄盘或 GitHub Releases 下载并解压完整 ZIP 到新目录后运行 Ng4Terminal.exe。本版修复再次双击窗口、保存布局，并将夜曲安装标为实验性。",
   "downloadPages": [
     {
       "name": "黄盘",
@@ -60,7 +60,8 @@
       "fileName": "Ng4Terminal-1.4.37-win-x64.zip",
       "bytes": 67497334,
       "sha256": "740d823bea67f6892bfecde76a9ce3d08905b385040b787c48295d7ed46b38a2",
-      "gitHubTag": "v1.4.37"
+      "gitHubTag": "v1.4.37",
+      "url": "https://pan.huang1111.cn/f/mGDPh2/Ng4Terminal-1.4.37-win-x64.zip"
     }
   ]
 }
