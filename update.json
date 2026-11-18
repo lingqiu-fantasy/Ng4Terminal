@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "latestVersion": "1.4.37",
-  "notes": "1.4.37 含新版启动器。请从黄盘或 GitHub Releases 下载并解压完整 ZIP 到新目录后运行 Ng4Terminal.exe。本版修复再次双击窗口、保存布局，并将夜曲安装标为实验性。",
+  "latestVersion": "1.4.38",
+  "notes": "1.4.38 将 Steam 物理与鱼之章的加载器和档案槽位分开。退出游戏后打开新终端一次完成迁移，之后可直接使用鱼之章安装器。",
   "downloadPages": [
     {
       "name": "黄盘",
@@ -62,6 +62,13 @@
       "sha256": "740d823bea67f6892bfecde76a9ce3d08905b385040b787c48295d7ed46b38a2",
       "gitHubTag": "v1.4.37",
       "url": "https://pan.huang1111.cn/f/mGDPh2/Ng4Terminal-1.4.37-win-x64.zip"
+    },
+    {
+      "version": "1.4.38",
+      "fileName": "Ng4Terminal-1.4.38-win-x64.zip",
+      "bytes": 67529658,
+      "sha256": "372149561181bb3ba5976653d3886659d266fe2d1252b3e3a3f69d060dbcc42a",
+      "gitHubTag": "v1.4.38"
     }
   ]
 }
