@@ -1,7 +1,7 @@
 {
   "schema": 1,
   "latestVersion": "1.4.38",
-  "notes": "1.4.38 将 Steam 物理与鱼之章的加载器和档案槽位分开。退出游戏后打开新终端一次完成迁移，之后可直接使用鱼之章安装器。",
+  "notes": "1.4.38 将 Steam 物理与鱼之章的加载器和档案槽位分开。退出游戏后打开新终端一次完成迁移，之后可直接使用鱼之章安装器。完整版优先使用黄盘直链，也可从 GitHub 下载。",
   "downloadPages": [
     {
       "name": "黄盘",
@@ -68,7 +68,8 @@
       "fileName": "Ng4Terminal-1.4.38-win-x64.zip",
       "bytes": 67529658,
       "sha256": "372149561181bb3ba5976653d3886659d266fe2d1252b3e3a3f69d060dbcc42a",
-      "gitHubTag": "v1.4.38"
+      "gitHubTag": "v1.4.38",
+      "url": "https://pan.huang1111.cn/f/l827sM/Ng4Terminal-1.4.38-win-x64.zip"
     }
   ]
 }
