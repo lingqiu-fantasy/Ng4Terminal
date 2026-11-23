@@ -1,7 +1,7 @@
 {
   "schema": 1,
   "latestVersion": "1.4.39",
-  "notes": "新增原生模型与音频 ZIP 导入、停止事务、可停止下载及独立的版本回退窗口。更新后首次启动会显示本次更新说明。",
+  "notes": "新增原生模型与音频 ZIP 导入、停止事务、可停止下载及独立的版本回退窗口。更新后首次启动会显示本次更新说明。 完整版优先使用黄盘直链，也可从 GitHub 下载。",
   "downloadPages": [
     {
       "name": "黄盘",
@@ -76,7 +76,8 @@
       "fileName": "Ng4Terminal-1.4.39-win-x64.zip",
       "bytes": 67552889,
       "sha256": "4f39c31adee8993b2b4d8c2ed734eced02f5a168cb8b1d4a0c24039bbb2482c9",
-      "gitHubTag": "v1.4.39"
+      "gitHubTag": "v1.4.39",
+      "url": "https://pan.huang1111.cn/f/AoeNTw/Ng4Terminal-1.4.39-win-x64.zip"
     }
   ]
 }
